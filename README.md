@@ -2,6 +2,6 @@
 
 A Guided Project by Next.js 
 
-[Reference] (https://nextjs.org/learn/dashboard-app/getting-started)
+[Reference](https://nextjs.org/learn/dashboard-app/getting-started)
 
 
